@@ -1,0 +1,27 @@
+
+# Compiled executable files
+*.exe
+*.out
+*.o
+*.obj
+
+# Debug and build files
+*.pdb
+*.ilk
+*.idb
+*.gch
+*.pch
+
+# IDE folders
+.vscode/
+.idea/
+
+# Common build folders
+build/
+bin/
+Debug/
+Release/
+
+# Operating system files
+.DS_Store
+Thumbs.db
