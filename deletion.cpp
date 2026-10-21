@@ -24,7 +24,7 @@ int main()
         cout<<"position "<<i<<" "<<a[i]<<endl;
     }
 
-    cout<<"enter the positon you want to delete"<<endl;
+    cout<<"enter the positon you want to delete pls enter"<<endl;
     cin>>pos;
 
     for(i=pos;i<n-1;i++)
