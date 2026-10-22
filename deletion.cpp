@@ -27,7 +27,7 @@ int main()
     cout<<"enter the positon you want to delete pls enter"<<endl;
     cin>>pos;
 
-    for(i=pos;i<n-1;i++)
+    for(i=pos;i<n;i++)
     {
         a[i]=a[i+1];
 
